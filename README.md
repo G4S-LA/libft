@@ -66,10 +66,12 @@
 - `ft_putnbr`
 - `ft_putnbr_fd`
 
-### :page_facing_up: :arrow_right: :page_facing_up: Работа со списками
+### :page_facing_up: Работа со списками
 - `ft_lstnew`
 - `ft_lstdelone`
 - `ft_lstdel`
 - `ft_lstadd`
 - `ft_lstiter`
 - `ft_lstmap`
+
+Чтобы собрать библиотеку, используйте команду `jf`
